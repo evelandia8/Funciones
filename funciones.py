@@ -7,3 +7,10 @@ def nombre(): #Primera Funcion
     c=a+b
     print(c)
 nombre()
+
+def resta():
+    a=2
+    b=1
+    c=a-b
+    print("El resultado de la resta es: ", c)
+resta()
