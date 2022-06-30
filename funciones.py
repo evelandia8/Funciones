@@ -14,3 +14,10 @@ def resta():
     c=a-b
     print("El resultado de la resta es: ", c)
 resta()
+
+def multiplica():
+    a=4
+    b=7
+    c=a*b
+    print("El resultado de la multiplicacion es: ", c)
+multiplica()
